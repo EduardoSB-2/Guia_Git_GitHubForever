@@ -43,16 +43,16 @@
 
 ### Para usarem um projeto:
 - Clone o projeto git clone https://github.com/seu-projeto.git
-- Para contribuir com esse projeto, entre na sua branch(seu nome) git checkout <nome_branch> e digite git pull origin main para trazer os dados mais recentes da main.
+Para contribuir com esse projeto, entre na sua branch(seu nome) git checkout <nome_branch> e digite git pull origin main para trazer os dados mais recentes da main.
 
-- Ao terminar sua contribuição, faça push para o servidor remoto no branch que você criou. Por exemplo:
+Ao terminar sua contribuição, faça push para o servidor remoto no branch que você criou. Por exemplo:
 - git add .
 - git commit -m "mensagem do commit"
 - git push -u origin <nome_branch>
 
-- Crie um novo PULL REQUEST no repositório, para que o seu branch seja analisado e, se estiver correto, seja adicionado ao branch main pelo gerente do projeto.
+Crie um novo PULL REQUEST no repositório, para que o seu branch seja analisado e, se estiver correto, seja adicionado ao branch main pelo gerente do projeto.
 
-- Atualizando sua Branch com a Última Versão da main, assim antes de começar a trabalhar em uma nova tarefa ou após terminar de trabalhar em sua branch, é importante garantir que sua cópia local da branch main esteja sempre atualizada. Para isso, siga os passos abaixo para puxar as últimas atualizações de main:
+Atualizando sua Branch com a ultima versão da main, assim antes de começar a trabalhar em uma nova tarefa ou após terminar de trabalhar em sua branch, é importante garantir que sua cópia local da branch main esteja sempre atualizada. Para isso, siga os passos abaixo para puxar as últimas atualizações de main:
 
 1. Vá para a Branch main
 Primeiro, certifique-se de que você está na branch main, onde todas as atualizações principais do projeto estão sendo feitas.
